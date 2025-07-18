@@ -1,0 +1,19 @@
+# === Backend ignores ===
+crisis-backend/node_modules/
+crisis-backend/.env
+crisis-backend/logs/
+crisis-backend/*.log
+
+# === Frontend ignores ===
+crisis-frontend/node_modules/
+crisis-frontend/.expo/
+crisis-frontend/.expo-shared/
+crisis-frontend/.cache/
+crisis-frontend/*.expo
+
+# === Common OS & IDE files ===
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+*.tmp
