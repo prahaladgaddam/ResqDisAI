@@ -10,6 +10,8 @@ crisis-frontend/.expo/
 crisis-frontend/.expo-shared/
 crisis-frontend/.cache/
 crisis-frontend/*.expo
+mobile-archive/
+
 
 # === Common OS & IDE files ===
 .DS_Store
