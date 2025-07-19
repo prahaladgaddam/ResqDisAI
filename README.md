@@ -49,7 +49,9 @@ flowchart TD
     Map --> Dispatcher[Rescue Dispatcher]
     Dispatcher --> Volunteers[NGOs/Volunteers]
     Volunteers --> Status[Status Tracker]
+
 ---
+
 ## ⚠️ Due to hackathon time constraints, development and testing were done on **Replit** to enable faster iteration, integrated deployment, and real-time team collaboration. The stack remains fully portable to other production-grade platforms.
 
 
