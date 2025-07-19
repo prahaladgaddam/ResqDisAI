@@ -24,9 +24,12 @@ ResqDisAI delivers a centralized, AI-powered rescue platform designed for rescue
 📊 Live dashboard: Tracks criticality, dispatch status, and request density on maps
 
 Manual Entry Form(For data collection from all channels):
+
 ![manual entry form](https://github.com/user-attachments/assets/4652e7f4-7807-47e0-94fb-dfb46144ba48)
 
+
 Dashboard for Dispatch Management:
+
 ![Dashboard](https://github.com/user-attachments/assets/22f1002e-1f51-4895-ba96-e004fdc9dace)
 
 
