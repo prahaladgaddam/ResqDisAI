@@ -77,4 +77,4 @@ What we’ve implemented in our MVP:
 ✅ AI-assisted dispatcher view and secondary validation
 
 
-⚠️ Due to hackathon time constraints, and issues faced with our original code base we had to pivot to Replit a the last minute for development and testing to ship things and finish in time, what you see above are both code bases, please rechout to us for any clarification, thanks!
+⚠️ Due to hackathon time constraints, and issues faced with our original code(crisis-backend, web-app) base we had to pivot to Replit a the last minute for development and testing to ship things and finish in time, what you see above are both code bases-original code(crisis-backend, web-app), and Replit-All other files, please rechout to us for any clarification, thanks!
