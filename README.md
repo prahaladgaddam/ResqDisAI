@@ -36,28 +36,44 @@ Dashboard for Dispatch Management:
 
 🛠️ MVP Implemented Features
 Feature	Description
+
 🧾 Manual Entry Portal	Interface for call/text operators to log requests with urgency and needs
+
 🗺️ Emergency Dashboard	Real-time map and stats overview: critical count, dispatch status, urgency
+
 📊 AI-powered Insights	NLP-based triage that auto-detects urgency, request type, and priority
+
 📦 Request Categorization	Classifies needs: Food/Water, Medical, Shelter, Evacuation, etc.
+
 📌 Geolocation	Detects and maps request origin; supports manual or device-based location
+
 🚑 Dispatcher UI	Displays real-time requests, status, urgency filter, and actions
+
 🔍 Sentiment Analysis	Enhances triage with AI-based emotional inference from request content
 
 🧠 AI-Powered Capabilities
 Module	Description
 🔥 Urgency Classifier	Uses OpenAI + NLP rules to assess severity from message
+
 🤖 Secondary AI Verifier	Confirms operator-entered urgency/type using AI cross-verification
+
 🧭 Smart Dispatcher	Suggests closest volunteers/teams based on urgency & type
+
 📶 Offline Fallback	Stores request data when network is offline, syncs later
+
 
 🧱 Tech Stack
 Layer	Technology
 Frontend	React.js, Vite, Tailwind CSS, shadcn/ui
+
 Backend	Node.js + Express.js (TypeScript)
+
 Database	PostgreSQL (Neon serverless) + Drizzle ORM
+
 AI Layer	OpenAI API, Custom NLP Pipeline
+
 APIs Used	Twitter API, SMS Gateway, OpenAI
+
 Deployment	Replit-ready with hot reload + build scripts
 
 🗺️ System Architecture
