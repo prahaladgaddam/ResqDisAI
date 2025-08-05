@@ -52,6 +52,8 @@ Feature	Description
 🔍 Sentiment Analysis	Enhances triage with AI-based emotional inference from request content
 
 🧠 AI-Powered Capabilities
+
+
 Module	Description
 🔥 Urgency Classifier	Uses OpenAI + NLP rules to assess severity from message
 
@@ -60,6 +62,7 @@ Module	Description
 🧭 Smart Dispatcher	Suggests closest volunteers/teams based on urgency & type
 
 📶 Offline Fallback	Stores request data when network is offline, syncs later
+
 
 
 🧱 Tech Stack
