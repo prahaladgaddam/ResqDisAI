@@ -23,6 +23,7 @@ ResqDisAI delivers a centralized, AI-powered rescue platform designed for rescue
 
 📊 Live dashboard: Tracks criticality, dispatch status, and request density on maps
 
+
 Manual Entry Form(For data collection from all channels):
 
 ![manual entry form](https://github.com/user-attachments/assets/4652e7f4-7807-47e0-94fb-dfb46144ba48)
@@ -77,4 +78,4 @@ What we’ve implemented in our MVP:
 ✅ AI-assisted dispatcher view and secondary validation
 
 
-⚠️ Due to hackathon time constraints, and issues faced with our original code(crisis-backend, web-app) base we had to pivot to Replit a the last minute for development and testing to ship things and finish in time, what you see above are both code bases-original code(crisis-backend, web-app), and Replit-All other files, please rechout to us for any clarification, thanks!
+⚠️ Due to hackathon time constraints, and issues faced with our original code(crisis-backend, web-app) base we had to pivot to Replit a the last minute for development and testing to ship things and finish in time, what you see above are both code bases-original code(crisis-backend, web-app), and Replit-All other files, please reachout to us for any clarification, thanks!
